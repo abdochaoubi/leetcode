@@ -5,7 +5,7 @@
  *     struct ListNode *next;
  * };
  */
-
+ 
 #include<stdlib.h>
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
     struct ListNode* lol =head;
